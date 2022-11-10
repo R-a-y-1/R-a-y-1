@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray
 - 👀 I’m interested in hardware level programming, 
-- 🌱 I’m currently learning Python + VHDL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small scale circuit programming
 - 📫 How to reach me: email! rashidomer34@gmail.com
 
